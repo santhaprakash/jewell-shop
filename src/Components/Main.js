@@ -24,7 +24,7 @@ function Main() {
          <div className={styles.div1}>
           <h1 style={{ fontSize: '65px'}}>Elegant & Luxury</h1>
           <h4 style={{ fontSize: '40px'}}>Remarkabale Jewellery for the modern woman</h4>
-          <h3 style={{marginLeft:'160px',fontWeight:'100'}}>Silver Rate tdy Rs : Rs:174.23 per gram</h3>
+          <h3 style={{marginLeft:'160px',fontWeight:'100'}}>Silver Rate tdy Rs : Rs:63.20 per gram</h3>
   
          </div>
          <div style={{marginTop: '30px',marginLeft:'-150px'}}>
